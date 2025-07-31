@@ -1,0 +1,6 @@
+{
+  "fillna": {"strategy": "mean"},
+  "drop": ["Cabin"],
+  "rename": {"Survived": "IsSurvived"},
+  "encode": {"columns": ["Sex"], "method": "label"}
+}

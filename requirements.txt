@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+pydantic[dotenv]
+python-multipart
+scikit-learn
